@@ -76,9 +76,9 @@ Then open `multiview-streeing-resmlp.ipynb` and run the cells in order. The firs
 
 ## Acknowledgements
 
+- [MohammadHossein Shamsipour](https://github.com/Mound21k) — **co-developed this project**
 - Dataset: `roydatascience/training-car` on Kaggle, based on the Udacity self-driving-car simulator.
 - Backbone model: ResMLP (Touvron et al., 2021), used via the `timm` library (Wightman, 2019).
-- [MohammadHossein Shamsipour](https://github.com/Mound21k) — **co-developed this project**
 
 ## Citation
 
